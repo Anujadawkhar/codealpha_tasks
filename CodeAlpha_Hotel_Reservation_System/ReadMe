@@ -1,0 +1,16 @@
+🏨 Hotel Management System (Java)
+
+A console-based Hotel Management System built using Core Java and OOP concepts.
+The system allows admins to add and manage hotel rooms and users to view, book, cancel, and track room reservations.
+
+🔑 Key Highlights
+Room categories: Standard, Deluxe, Suite
+Admin & User dashboards
+Room booking and cancellation
+Availability tracking
+Menu-driven console application
+
+🛠️ Tech Stack
+Java (Core Java, OOP)
+Console-based application
+This project demonstrates object-oriented design, real-world booking logic, and clean Java coding practices.
