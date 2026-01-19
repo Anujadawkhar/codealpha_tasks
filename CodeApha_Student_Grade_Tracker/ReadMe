@@ -1,0 +1,16 @@
+🎓 Student Grade Tracker (Java)
+A console-based Java application to manage and analyze student academic records.
+The system allows users to add, remove, and view student grades, and automatically calculates average, highest, and lowest scores.
+
+🔑 Key Highlights
+Add and remove student records
+Dynamic storage using ArrayList
+Automatic grade analysis (avg, max, min)
+Menu-driven console interface
+Clean Model–Service architecture
+
+🛠️ Tech Stack
+Java
+OOP Concepts
+ArrayList
+Console Application
